@@ -7,3 +7,6 @@ Welcome to my new project
 ## THE COMMAND TO CHECK THE REPOSITORY'S HISTORY
  * git log
 
+# THIS WILL BE A LITTLE CHANGE FOR MY BRANCH
+ * I'm thinking to start a new project on my main
+
