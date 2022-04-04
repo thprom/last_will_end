@@ -1,0 +1,41 @@
+my-color {
+  color: purple;
+}
+
+h1 {
+ color: brown;
+ background-color: grey;
+ padding: 10px;
+ margin: 20px;
+}
+
+table,tr, th,td {
+ border: 1px solid black;
+ border-style: collaps; 
+ color: green;
+ text-align: center;
+}
+th {
+ color: Purple;
+ text-align: center;
+}
+td {
+ color: green;
+}
+
+#first-p {
+ color: green;
+}
+#second {
+ color: blue;
+}
+#third {
+ color: yellow;
+}
+p {
+ background-color: orange;
+}
+a:link {
+ color: DodgerBlue;
+ text-align: center;
+}
