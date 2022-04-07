@@ -1,14 +1,15 @@
 # DH Fundamentals (104 TU)
 
-- Day 1: Course Introduction, Viewing and Navigation (6TU) [details...](https://github.com/mathiasbrito-dci/python-course-2022/blob/1bbcc24225524eedec885e3a60f6f85af5f952b3/01%20-%20DH%20Fundamentals/001%20Day%20-%20Course%20Intro,%20Viewing%20and%20Navigating%20-%206TU/README.md)
-- Day 2: Creating, Manipulating, Editing and Installing (8TU) [details...](https://github.com/mathiasbrito-dci/python-course-2022/blob/1bbcc24225524eedec885e3a60f6f85af5f952b3/01%20-%20DH%20Fundamentals/002%20Day%20-%20Creating,%20Manipulating%20and%20Installing%20-%208TU%20/README.md)
-- Day 3: Version Control Sistem and Git Basics (8TU) [details...](https://github.com/mathiasbrito-dci/python-course-2022/blob/1bbcc24225524eedec885e3a60f6f85af5f952b3/01%20-%20DH%20Fundamentals/003%20Day%20-%20Versioning%20and%20Collaboration%20-%20Git%20Basics%20-%208TU/README.md)
-- Day 4: Git Branching, Merging and Conflicts resolution (8TU) [details...](https://github.com/mathiasbrito-dci/python-course-2022/blob/886debf2f05fed4509332285c0f0672c37e96fd0/01%20-%20DH%20Fundamentals/004%20Day%20-%20Versioning%20and%20Collaboration%20-%20Branching,%20Merging%20and%20Conflicts%20-%208%20TU/README.md)
-- Day 5:
-    - Part 1 - Versioning and Collaborating Review and Exercises (4TU) [details...](https://github.com/mathiasbrito-dci/python-course-2022/blob/886debf2f05fed4509332285c0f0672c37e96fd0/01%20-%20DH%20Fundamentals/005%20Day%20-%20Versioning%20and%20Collaboration%20-%20Concepts%20Review%20-%204%20TU/README.md)
-    - Part 2 - Internet: Fundamentals and HTML (4TU) [details...](https://github.com/mathiasbrito-dci/python-course-2022/blob/886debf2f05fed4509332285c0f0672c37e96fd0/01%20-%20DH%20Fundamentals/005%20Day%20-%20Internet%20-%20Fundamentals%20and%20HTML%20-%204%20TU/README.md)
+- Day 8: HTML and CSS Review and Exercises (8TU) [details...](https://github.com/mathiasbrito-dci/python-course-2022/tree/main/01%20-%20DH%20Fundamentals/008%20Day%20-%20HTML%20and%20CSS%20-%20Layouts%20Practicing)
+- Day 7: CSS Box Model and Layouts (8TU) [details...](https://github.com/mathiasbrito-dci/python-course-2022/blob/5ddc1dedc8dbef4b011352ab385239e82e31c0dd/01%20-%20DH%20Fundamentals/007%20Day%20-%20HTML%20and%20CSS%20-%20CSS%20Box%20Model%20and%20Layouts%20-%208TU/README.md)
 - Day 6: Internet: HTML Forms and Basics of CSS (8TU) [details...](https://github.com/mathiasbrito-dci/python-course-2022/blob/9912f54fde96e3410734f0e7d4d7dc2c944ead10/01%20-%20DH%20Fundamentals/006%20Day%20-%20HTML%20and%20CSS%20-%208TU/README.md)
-
+- Day 5:
+  - Part 1 - Versioning and Collaborating Review and Exercises (4TU) [details...](https://github.com/mathiasbrito-dci/python-course-2022/blob/886debf2f05fed4509332285c0f0672c37e96fd0/01%20-%20DH%20Fundamentals/005%20Day%20-%20Versioning%20and%20Collaboration%20-%20Concepts%20Review%20-%204%20TU/README.md)
+  - Part 2 - Internet: Fundamentals and HTML (4TU) [details...](https://github.com/mathiasbrito-dci/python-course-2022/blob/886debf2f05fed4509332285c0f0672c37e96fd0/01%20-%20DH%20Fundamentals/005%20Day%20-%20Internet%20-%20Fundamentals%20and%20HTML%20-%204%20TU/README.md)
+- Day 4: Git Branching, Merging and Conflicts resolution (8TU) [details...](https://github.com/mathiasbrito-dci/python-course-2022/blob/886debf2f05fed4509332285c0f0672c37e96fd0/01%20-%20DH%20Fundamentals/004%20Day%20-%20Versioning%20and%20Collaboration%20-%20Branching,%20Merging%20and%20Conflicts%20-%208%20TU/README.md)
+- Day 3: Version Control Sistem and Git Basics (8TU) [details...](https://github.com/mathiasbrito-dci/python-course-2022/blob/1bbcc24225524eedec885e3a60f6f85af5f952b3/01%20-%20DH%20Fundamentals/003%20Day%20-%20Versioning%20and%20Collaboration%20-%20Git%20Basics%20-%208TU/README.md)
+- Day 2: Creating, Manipulating, Editing and Installing (8TU) [details...](https://github.com/mathiasbrito-dci/python-course-2022/blob/1bbcc24225524eedec885e3a60f6f85af5f952b3/01%20-%20DH%20Fundamentals/002%20Day%20-%20Creating,%20Manipulating%20and%20Installing%20-%208TU%20/README.md)
+- Day 1: Course Introduction, Viewing and Navigation (6TU) [details...](https://github.com/mathiasbrito-dci/python-course-2022/blob/1bbcc24225524eedec885e3a60f6f85af5f952b3/01%20-%20DH%20Fundamentals/001%20Day%20-%20Course%20Intro,%20Viewing%20and%20Navigating%20-%206TU/README.md)
 
 # Learning Material
 
@@ -16,7 +17,6 @@
 - [Versioning and Collaborating](https://drive.google.com/file/d/1YbaMzQP8eEdgnhlIZ4vYMhbDmp_EtNqT/view?usp=sharing)
 - [The Internet and HTML](https://drive.google.com/file/d/1WlpNei3y-l8j_5gFKXF0gOcjIeabFUNn/view?usp=sharing)
 - **(NEW)** [CSS Slides](https://drive.google.com/file/d/17lzqGr582lUstHGC8MGJE03SCMJy-qRh/view?usp=sharing)
-
 
 ## Videos
 
@@ -28,6 +28,7 @@
 
 - Week 2 in Review Video
     - Part 1: [Git Branching, Conflicts and Merge](https://drive.google.com/file/d/1FOWMWnJ00-5Ksuh3cV3ctRutfIoQUlJJ/view)
+    - **(NEW)** Part 2: [HTML and CSS Basics](https://drive.google.com/file/d/1oXFxUz5QLKDjy97P1IadCVITad0Uyg5Y/view?usp=drivesdk)
 
 ## Cheat Sheets
 

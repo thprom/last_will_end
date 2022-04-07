@@ -1,4 +1,4 @@
-# DH Fundamentals: Creating, Manipulating, Editing and Installing
+# DH Fundamentals: Creating, Manipulating, Editing and Installing (8TU)
 
 ## Objectives
 
